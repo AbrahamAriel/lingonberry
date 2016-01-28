@@ -1,4 +1,4 @@
-![Lingonberry preview.](screenshot.png)
+![Lingonberry preview.](https://raw.githubusercontent.com/acrox999/lingonberry/master/preview.png)
 # Lingonberry
 Lingonberry is a clean and simple theme for bloggers, with responsive design and beautiful typography.
 
@@ -33,3 +33,7 @@ Lingonberry WordPress Theme, Copyright 2015 Anders Norén
 Lingonberry is distributed under the terms of the GNU GPL v2
 
 Ported to Bludit by Hakim Zulkufli (@acrox999)
+
+-------
+
+NOTES: Does not support sidebar plugins. To customize or add links to the bottom widget bar, modify php/sidebar.php.
