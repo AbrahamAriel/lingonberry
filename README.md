@@ -1,4 +1,7 @@
 ![Lingonberry preview.](https://raw.githubusercontent.com/acrox999/lingonberry/master/preview.png)
+
+*[Demo here.](http://www.iamnobuna.ga/)*
+
 # Lingonberry
 Lingonberry is a clean and simple theme for bloggers, with responsive design and beautiful typography.
 
