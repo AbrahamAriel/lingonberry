@@ -1,5 +1,5 @@
 ![Lingonberry preview.]()
-
+# Lingonberry
 Lingonberry is a clean and simple theme for bloggers, with responsive design and beautiful typography.
 
 Lingonberry is developed by Anders Norén. Ported to Bludit by Hakim Zulkufli.
